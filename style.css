@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  h2 {
+    color: #343a40;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* style.css */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1030; /* Ensure it's above other elements */
+}
+
+.table th, .table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
